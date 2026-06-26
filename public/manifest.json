@@ -1,0 +1,25 @@
+{
+  "name": "Lumina Music Player",
+  "short_name": "Lumina",
+  "description": "Premium high-fidelity audio stream player with integrated multi-band equalizer, crossfade, and offline music gallery storage.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#a855f7",
+  "orientation": "portrait",
+  "categories": ["music", "audio", "utilities"],
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/bottts/svg?seed=lumina",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/bottts/svg?seed=lumina",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

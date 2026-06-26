@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Songs",
+  "description": "An ultra-premium AI-powered music streaming and creator platform with a futuristic dark glassmorphism design, featuring real-time YouTube playback integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
